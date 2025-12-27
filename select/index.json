@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "笑って透明人間",
+  "base_artist": "小林私",
+  "createdAt": "2025-12-27T03:04:00.395601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "笑って透明人間",
+      "artist": "小林私",
+      "has_synced": false,
+      "path": "select/pl_01_笑って透明人間_小林私.txt"
+    }
+  ]
+}
